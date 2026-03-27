@@ -15,9 +15,10 @@ f(x) = -(x - 3)^2 + 9
 (Global maximum at x = 3, f(x) = 9)
 
 Implementations
-Simple Hill Climbing
-Moves to the first improving neighbor
-Steepest-Ascent Hill Climbing
+*Simple Hill Climbing
+
+*Moves to the first improving neighbor
+Steepest-Ascent Hill Climbing 
 Evaluates both neighbors and chooses the best
 Random-Restart Hill Climbing
 Runs hill climbing multiple times from random starting points
