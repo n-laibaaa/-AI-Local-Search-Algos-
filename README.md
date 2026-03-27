@@ -99,8 +99,13 @@ SBS may take slightly more iterations
 23F-0855_6C_A3.ipynb → Main notebook
 
 ▶️ How to Run
+
 Install dependencies
+
 pip install matplotlib numpy
+
 Open notebook
+
 jupyter notebook 23F-0855_6C_A3.ipynb
+
 Run all cells (Restart & Run All)
